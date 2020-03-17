@@ -7,6 +7,13 @@ publishDir = "docs"
 [menu]
 
   [[menu.main]]
+    identifier = "english lesson trial!"
+    name = "english lesson trial"
+    pre = "<i class='fa fa-heart'></i>"
+    url = "/english-lesson-trial/"
+    weight = -110
+
+  [[menu.main]]
     identifier = "about"
     name = "about"
     pre = "<i class='fa fa-heart'></i>"

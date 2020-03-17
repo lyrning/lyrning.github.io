@@ -1,3 +1,5 @@
+[About](about) [Pricing](pricing)
+
 Landing - Qué somos
 TBD
 

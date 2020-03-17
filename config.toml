@@ -3,3 +3,19 @@ languageCode = "es-es"
 title = "Lyrning"
 theme = "ananke"
 publishDir = "docs"
+
+[menu]
+
+  [[menu.main]]
+    identifier = "about"
+    name = "about"
+    pre = "<i class='fa fa-heart'></i>"
+    url = "/about/"
+    weight = -110
+
+  [[menu.main]]
+    name = "pricing"
+    post = "<span class='alert'>New!</span>"
+    pre = "<i class='fa fa-road'></i>"
+    url = "/pricing/"
+    weight = -100

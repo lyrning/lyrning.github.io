@@ -1,4 +1,5 @@
-baseURL = "https://lyrning.com/"
+baseURL = "https://lyrning.github.io/lyrning_website/"
 languageCode = "es-es"
 title = "Lyrning"
 theme = "ananke"
+publishDir = "docs"

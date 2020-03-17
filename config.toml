@@ -1,0 +1,4 @@
+baseURL = "https://lyrning.com/"
+languageCode = "es-es"
+title = "Lyrning"
+theme = "ananke"

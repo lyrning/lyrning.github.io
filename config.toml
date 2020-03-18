@@ -12,11 +12,6 @@ publishDir = "docs"
 
     [menu]
       [[languages.en.menu.main]]
-        identifier = "pricing"
-        name = "pricing"
-        url = "/pricing/"
-        weight = -120
-      [[languages.en.menu.main]]
         identifier = "english-lesson-trial!"
         name = "english lesson trial"
         url = "/english-lesson-trial/"
@@ -30,12 +25,6 @@ publishDir = "docs"
   [languages.es]
     title = "Lyrning"
     weight = 1
-
-    [[languages.es.menu.main]]
-        identifier = "pricing"
-        name = "precios"
-        url = "/pricing/"
-        weight = -120
     [[languages.es.menu.main]]
         identifier = "english-lesson-trial"
         name = "prueba una clase gratis!"

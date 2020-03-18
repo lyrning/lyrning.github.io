@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://lyrning.com/en/</loc>
-    <lastmod>2020-03-17T21:18:56+01:00</lastmod>
+    <lastmod>2020-03-17T21:18:39+01:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -15,21 +15,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://lyrning.com/en/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://lyrning.com/en/pricing/</loc>
-    <lastmod>2020-03-17T21:18:56+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://lyrning.com/pricing/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lyrning.com/en/pricing/"
                 />
   </url>
   

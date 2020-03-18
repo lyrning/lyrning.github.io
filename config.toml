@@ -1,28 +1,52 @@
 baseURL = "https://lyrning.github.io/lyrning_website/"
-languageCode = "es-es"
+defaultContentLanguage = "es"
 title = "Lyrning"
 theme = "ananke"
 publishDir = "docs"
 
-[menu]
+[languages]
 
-  [[menu.main]]
-    name = "pricing"
-    post = "<span class='alert'>New!</span>"
-    pre = "<i class='fa fa-road'></i>"
-    url = "/pricing/"
-    weight = -120
+  [languages.en]
+    title = "Lyrning"
+    weight = 1
 
-  [[menu.main]]
-    identifier = "english lesson trial!"
-    name = "english lesson trial"
-    pre = "<i class='fa fa-heart'></i>"
-    url = "/english-lesson-trial/"
-    weight = -110
+    [menu]
+      [[languages.en.menu.main]]
+        identifier = "pricing"
+        name = "pricing"
+        url = "/pricing/"
+        weight = -120
+      [[languages.en.menu.main]]
+        identifier = "english-lesson-trial!"
+        name = "english lesson trial"
+        url = "/english-lesson-trial/"
+        weight = -110
+      [[languages.en.menu.main]]
+        identifier = "about"
+        name = "about"
+        url = "/about/"
+        weight = -100  
 
-  [[menu.main]]
-    identifier = "about"
-    name = "about"
-    pre = "<i class='fa fa-heart'></i>"
-    url = "/about/"
-    weight = -100  
+  [languages.es]
+    title = "Lyrning"
+    weight = 1
+
+    [[languages.es.menu.main]]
+        identifier = "pricing"
+        name = "precios"
+        url = "/pricing/"
+        weight = -120
+    [[languages.es.menu.main]]
+        identifier = "english-lesson-trial"
+        name = "prueba una clase gratis!"
+        url = "/english-lesson-trial/"
+        weight = -110
+    [[languages.es.menu.main]]
+        identifier = "about"
+        name = "tus profes"        
+        url = "/about/"
+        weight = -100  
+
+
+
+  

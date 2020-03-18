@@ -5,37 +5,36 @@
     <link>https://lyrning.github.io/lyrning_website/</link>
     <description>Recent content on Lyrning</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>es-es</language>
     <lastBuildDate>Tue, 17 Mar 2020 21:18:56 +0100</lastBuildDate>
     
 	<atom:link href="https://lyrning.github.io/lyrning_website/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Pricing</title>
+      <title>Precios</title>
       <link>https://lyrning.github.io/lyrning_website/pricing/</link>
       <pubDate>Tue, 17 Mar 2020 21:18:56 +0100</pubDate>
       
       <guid>https://lyrning.github.io/lyrning_website/pricing/</guid>
-      <description>Pricing</description>
+      <description>Precios</description>
     </item>
     
     <item>
-      <title>About</title>
-      <link>https://lyrning.github.io/lyrning_website/about/</link>
-      <pubDate>Tue, 17 Mar 2020 21:18:39 +0100</pubDate>
-      
-      <guid>https://lyrning.github.io/lyrning_website/about/</guid>
-      <description>About</description>
-    </item>
-    
-    <item>
-      <title>English lesson trial</title>
+      <title>Da una clase de prueba</title>
       <link>https://lyrning.github.io/lyrning_website/english-lesson-trial/</link>
       <pubDate>Tue, 17 Mar 2020 21:18:39 +0100</pubDate>
       
       <guid>https://lyrning.github.io/lyrning_website/english-lesson-trial/</guid>
       <description> Form Calendar  </description>
+    </item>
+    
+    <item>
+      <title>Sobre nosotros</title>
+      <link>https://lyrning.github.io/lyrning_website/about/</link>
+      <pubDate>Tue, 17 Mar 2020 21:18:39 +0100</pubDate>
+      
+      <guid>https://lyrning.github.io/lyrning_website/about/</guid>
+      <description>Sobre nosotros</description>
     </item>
     
   </channel>

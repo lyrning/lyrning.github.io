@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lyrning</title>
-    <link>https://lyrning.github.io/lyrning_website/</link>
+    <link>https://lyrning.com/</link>
     <description>Recent content on Lyrning</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Tue, 17 Mar 2020 21:18:56 +0100</lastBuildDate>
     
-	<atom:link href="https://lyrning.github.io/lyrning_website/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://lyrning.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Precios</title>
-      <link>https://lyrning.github.io/lyrning_website/pricing/</link>
+      <link>https://lyrning.com/pricing/</link>
       <pubDate>Tue, 17 Mar 2020 21:18:56 +0100</pubDate>
       
-      <guid>https://lyrning.github.io/lyrning_website/pricing/</guid>
+      <guid>https://lyrning.com/pricing/</guid>
       <description>Precios</description>
     </item>
     
     <item>
       <title>Da una clase de prueba</title>
-      <link>https://lyrning.github.io/lyrning_website/english-lesson-trial/</link>
+      <link>https://lyrning.com/english-lesson-trial/</link>
       <pubDate>Tue, 17 Mar 2020 21:18:39 +0100</pubDate>
       
-      <guid>https://lyrning.github.io/lyrning_website/english-lesson-trial/</guid>
+      <guid>https://lyrning.com/english-lesson-trial/</guid>
       <description> Form Calendar  </description>
     </item>
     
     <item>
       <title>Sobre nosotros</title>
-      <link>https://lyrning.github.io/lyrning_website/about/</link>
+      <link>https://lyrning.com/about/</link>
       <pubDate>Tue, 17 Mar 2020 21:18:39 +0100</pubDate>
       
-      <guid>https://lyrning.github.io/lyrning_website/about/</guid>
+      <guid>https://lyrning.com/about/</guid>
       <description>Sobre nosotros</description>
     </item>
     

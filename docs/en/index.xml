@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lyrning</title>
-    <link>https://lyrning.github.io/lyrning_website/en/</link>
+    <link>https://lyrning.com/en/</link>
     <description>Recent content on Lyrning</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Tue, 17 Mar 2020 21:18:56 +0100</lastBuildDate>
     
-	<atom:link href="https://lyrning.github.io/lyrning_website/en/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://lyrning.com/en/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Pricing</title>
-      <link>https://lyrning.github.io/lyrning_website/en/pricing/</link>
+      <link>https://lyrning.com/en/pricing/</link>
       <pubDate>Tue, 17 Mar 2020 21:18:56 +0100</pubDate>
       
-      <guid>https://lyrning.github.io/lyrning_website/en/pricing/</guid>
+      <guid>https://lyrning.com/en/pricing/</guid>
       <description>Pricing</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://lyrning.github.io/lyrning_website/en/about/</link>
+      <link>https://lyrning.com/en/about/</link>
       <pubDate>Tue, 17 Mar 2020 21:18:39 +0100</pubDate>
       
-      <guid>https://lyrning.github.io/lyrning_website/en/about/</guid>
+      <guid>https://lyrning.com/en/about/</guid>
       <description>About</description>
     </item>
     
     <item>
       <title>Spanish lesson trial</title>
-      <link>https://lyrning.github.io/lyrning_website/en/english-lesson-trial/</link>
+      <link>https://lyrning.com/en/english-lesson-trial/</link>
       <pubDate>Tue, 17 Mar 2020 21:18:39 +0100</pubDate>
       
-      <guid>https://lyrning.github.io/lyrning_website/en/english-lesson-trial/</guid>
+      <guid>https://lyrning.com/en/english-lesson-trial/</guid>
       <description> Form Calendar  </description>
     </item>
     

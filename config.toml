@@ -1,4 +1,4 @@
-baseURL = "https://lyrning.github.io/lyrning_website/"
+baseURL = "https://lyrning.com"
 defaultContentLanguage = "es"
 title = "Lyrning"
 theme = "ananke"
